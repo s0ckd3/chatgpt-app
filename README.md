@@ -12,3 +12,5 @@ APP desktop giúp bạn nhanh chóng sử dụng chatGPT chỉ với 1 click
 
 ## Hình ảnh mình họa
  ![img](https://raw.githubusercontent.com/s0ckd3/chatgpt-app/main/chat-app.png)
+## Tải về
+ https://github.com/s0ckd3/chatgpt-app/releases/tag/1.0.0
